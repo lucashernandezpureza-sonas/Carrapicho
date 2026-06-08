@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+venv/
+.venv/
+
+data/raw_midis/*
+!data/raw_midis/.gitkeep
+data/segments/*
+!data/segments/.gitkeep
